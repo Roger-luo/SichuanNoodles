@@ -67,7 +67,7 @@ Drain the noodles and mix it up with the meat and the sauce we just made.
 
 You may need taobao.com to get some **cardamine bean sprouts** if you can't find it locally.
 
-suggest quantity:
+suggested quantity:
 
 - light soy sauce: 2 🥄
 - vinegar: half 🥄
@@ -75,3 +75,12 @@ suggest quantity:
 - sesame oil: half 🥄 
 - zanthoxylum (Sichuan pepper oil) oil: 5 or 6 drop
 - chili oil: half 🥄
+
+
+## Contribute to this repo
+
+Please feel free to add your own recipe or suggestion through issue. Or report if this is too spicy for you.
+
+## License
+
+CC BY 4.0
