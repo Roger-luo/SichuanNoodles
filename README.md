@@ -65,7 +65,7 @@ Drain the noodles and mix it up with the meat and the sauce we just made.
 
 ## Tips
 
-You may need taobao.com to get some **cardamine bean sprouts** if you can't find it locally.
+You may need [taobao.com](http://taobao.com/) to get some **cardamine bean sprouts** if you can't find it locally.
 
 suggested quantity:
 
